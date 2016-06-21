@@ -1,2 +1,2 @@
 # DZWONEK_TEST
-Testowy
+Tutaj będzie poglądowy opis działania danego projektu
